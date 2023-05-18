@@ -19,3 +19,13 @@
 .container__small-card__separator {
   margin-top: 20px;
 }
+
+
+@media screen and (max-width: 600px ) {
+  .container__small-card-content {
+    font-size: 10px;
+    width: 20px;
+  }
+}
+
+

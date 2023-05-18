@@ -28,3 +28,11 @@
   width: 100%;
   min-width: 400px;
 }
+
+@media screen and (max-width: 600px ) {
+  .big-card__photo {
+    font-size: 10px;
+    height: 12px;
+  }
+}
+
